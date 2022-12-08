@@ -30,8 +30,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "58B511DA1A9E6C8500147676"
                BuildableName = "libRNTextSize.a"
-               BlueprintName = "RNTextSize"
-               ReferencedContainer = "container:RNTextSize.xcodeproj">
+               BlueprintName = "WixRNTextSize"
+               ReferencedContainer = "container:WixRNTextSize.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -41,19 +41,17 @@
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
-      <Testables>
-      </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "58B511DA1A9E6C8500147676"
             BuildableName = "libRNTextSize.a"
-            BlueprintName = "RNTextSize"
-            ReferencedContainer = "container:RNTextSize.xcodeproj">
+            BlueprintName = "WixRNTextSize"
+            ReferencedContainer = "container:WixRNTextSize.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
+      <Testables>
+      </Testables>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Debug"
@@ -70,12 +68,10 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "58B511DA1A9E6C8500147676"
             BuildableName = "libRNTextSize.a"
-            BlueprintName = "RNTextSize"
-            ReferencedContainer = "container:RNTextSize.xcodeproj">
+            BlueprintName = "WixRNTextSize"
+            ReferencedContainer = "container:WixRNTextSize.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"

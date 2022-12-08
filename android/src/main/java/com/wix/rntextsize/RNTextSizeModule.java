@@ -1,4 +1,4 @@
-package com.github.amarcruz.rntextsize;
+package com.wix.rntextsize;
 
 import android.content.res.AssetManager;
 import android.graphics.Paint;

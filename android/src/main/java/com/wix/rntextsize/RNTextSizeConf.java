@@ -1,4 +1,4 @@
-package com.github.amarcruz.rntextsize;
+package com.wix.rntextsize;
 
 import android.graphics.Typeface;
 import android.os.Build;

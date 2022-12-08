@@ -1,4 +1,4 @@
-package com.github.amarcruz.rntextsize;
+package com.wix.rntextsize;
 
 import android.annotation.TargetApi;
 import android.graphics.Typeface;
