@@ -1,4 +1,4 @@
-#import "RNTextSize.h"
+#import "WixRNTextSize.h"
 
 #if __has_include(<React/RCTConvert.h>)
 #import <React/RCTConvert.h>
@@ -34,7 +34,7 @@ static inline CGFloat CGFloatValueFrom(NSNumber * _Nullable num) {
 /*
  * 2018-08-14 by aMarCruz: First working version, tested in RN 0.56
  */
-@implementation RNTextSize
+@implementation WixRNTextSize
 
 RCT_EXPORT_MODULE();
 

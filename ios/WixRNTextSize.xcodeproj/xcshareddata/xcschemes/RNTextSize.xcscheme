@@ -29,7 +29,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "58B511DA1A9E6C8500147676"
-               BuildableName = "libRNTextSize.a"
+               BuildableName = "libWixRNTextSize.a"
                BlueprintName = "WixRNTextSize"
                ReferencedContainer = "container:WixRNTextSize.xcodeproj">
             </BuildableReference>
@@ -45,7 +45,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "58B511DA1A9E6C8500147676"
-            BuildableName = "libRNTextSize.a"
+            BuildableName = "libWixRNTextSize.a"
             BlueprintName = "WixRNTextSize"
             ReferencedContainer = "container:WixRNTextSize.xcodeproj">
          </BuildableReference>
@@ -67,7 +67,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "58B511DA1A9E6C8500147676"
-            BuildableName = "libRNTextSize.a"
+            BuildableName = "libWixRNTextSize.a"
             BlueprintName = "WixRNTextSize"
             ReferencedContainer = "container:WixRNTextSize.xcodeproj">
          </BuildableReference>

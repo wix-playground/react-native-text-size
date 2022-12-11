@@ -6,5 +6,5 @@
 #import "React/RCTAccessibilityManager.h"
 #endif
 
-@interface RNTextSize : NSObject <RCTBridgeModule>
+@interface WixRNTextSize : NSObject <RCTBridgeModule>
 @end
