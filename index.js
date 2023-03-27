@@ -1,2 +1,2 @@
 import { NativeModules } from 'react-native'
-export default NativeModules.RNTextSize
+export default NativeModules.WixRNTextSize
