@@ -11,7 +11,7 @@ import java.util.Collections;
 import java.util.List;
 
 @SuppressWarnings("unused")
-public class RNTextSizePackage implements ReactPackage {
+public class WixRNTextSizePackage implements ReactPackage {
 
     @Override
     public List<NativeModule> createNativeModules(ReactApplicationContext reactContext) {
