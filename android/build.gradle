@@ -26,6 +26,7 @@ buildscript {
 apply plugin: 'com.android.library'
 
 android {
+    namespace "com.wix.rntextsize"
     compileSdkVersion _compileSdkVersion
     buildToolsVersion _buildToolsVersion
 
